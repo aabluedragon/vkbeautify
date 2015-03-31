@@ -1,0 +1,26 @@
+{
+  "name": "vkbeautify",
+  "version": "0.99.0",
+  "description": "Pretty prints and minifies XML/JSON/SQL/CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aabluedragon/vkbeautify.git"
+  },
+  "keywords": [
+    "minify",
+    "beautify",
+    "pretty",
+    "print",
+    "pretty-print",
+    "json",
+    "xml",
+    "sql",
+    "css"
+  ],
+  "author": "Alon Amir",
+  "license": "MIT"
+}
