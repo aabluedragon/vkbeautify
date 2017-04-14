@@ -1,6 +1,6 @@
 {
   "name": "vkbeautify",
-  "version": "0.99.0",
+  "version": "0.99.2",
   "description": "Pretty prints and minifies XML/JSON/SQL/CSS",
   "main": "index.js",
   "scripts": {
