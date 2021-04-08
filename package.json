@@ -1,6 +1,6 @@
 {
   "name": "vkbeautify",
-  "version": "0.99.3",
+  "version": "0.99.4",
   "description": "Pretty prints and minifies XML/JSON/SQL/CSS",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,8 @@
     "css"
   ],
   "author": "Alon Amir",
+  "contributors": [
+    "Aaron Coquet / @FarFromUnique"
+  ],
   "license": "MIT"
 }
